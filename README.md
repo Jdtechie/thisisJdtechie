@@ -57,8 +57,6 @@ workflows, and products that solve real-world problems.
 ### Tools
 - Git
 - GitHub
-- VS Code
-- Antigravity
 - Figma
 
 ---
@@ -68,51 +66,47 @@ workflows, and products that solve real-world problems.
 I've worked on production applications across mobile and TV platforms,
 including sports streaming, digital content, and internal product solutions.
 
-### Styxsports — Live Cricket & Scores
+### Styxsports — Live Cricket & Sports
 
-Contributed to a live sports application covering cricket streaming,
-live scores, match updates, highlights and notifications.
+Contributed to the Styxsports mobile application built with **Flutter**.
+
+The application includes live cricket streaming, real-time scores,
+match updates, highlights, notifications and related sports experiences.
 
 **100K+ downloads on Google Play.**
 
-- Android
-- iOS
-- React Native
-- Firebase
-- Notifications
-- Deep Linking
+**Technology:** Flutter, Dart, Firebase, Notifications, Deep Linking
 
 [Google Play](https://play.google.com/store/apps/details?id=com.styxsports.styxsports) ·
 [App Store](https://apps.apple.com/us/app/styxsports/id6745094259)
 
 ### StyxNepal
 
-Contributed to the StyxNepal sports and digital-content application
-for the Nepal market.
+Contributed to the StyxNepal mobile application built with **Flutter**.
 
-- Android
-- iOS
-- React Native
-- Firebase
-- Notifications
-- Deep Linking
+The platform provides sports, entertainment, news and OTT-style content.
+
+**Technology:** Flutter, Dart, Firebase, Notifications, Deep Linking
 
 [Google Play](https://play.google.com/store/apps/details?id=com.styxnepal.app) ·
-[App Store](https://apps.apple.com/qa/app/styxnepal/id6758297278)
+[App Store](https://apps.apple.com/us/app/styxnepal/id6758297278)
 
 ### StyxNepal TV
 
-Worked on the React Native TV version of the StyxNepal experience,
-designed for Android TV and large-screen usage.
+Worked on the TV version of StyxNepal using **React Native**, targeting
+Android TV and large-screen experiences.
+
+**Technology:** React Native
 
 [Google Play — Android TV](https://play.google.com/store/apps/details?id=com.styxnepal.tvapp)
 
 ### Clyrex
 
-Contributed to the Clyrex mobile application built with React Native.
+Worked on the Clyrex mobile application built with **React Native**.
+
+**Technology:** React Native
 
 [Google Play](https://play.google.com/store/apps/details?id=com.clyrex.mobileproduction)
-
 ---
 
 ## Freelancing & Automation
@@ -137,7 +131,7 @@ Recent work includes:
 
 A Flutter-based device registration and retail workflow application
 focused on barcode/IMEI scanning, device information, registration
-history, and a streamlined retail workflow.
+history, and streamlined retail workflows.
 
 **Flutter • Dart • Android • Barcode Scanning • Local Persistence**
 
@@ -162,6 +156,7 @@ Currently developing a personal developer portfolio using:
 - Scalable product development
 
 ---
+
 
 ## Connect
 
